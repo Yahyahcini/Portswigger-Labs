@@ -18,5 +18,5 @@ User input is not properly handled, allowing bypass of authentication.
 
 ## Proof
 
-<img alt="injection" src="login.png" />
-<img alt="access" src="success.png" />
+<img alt="injection" src="1.png" />
+<img alt="access" src="2.png" />
