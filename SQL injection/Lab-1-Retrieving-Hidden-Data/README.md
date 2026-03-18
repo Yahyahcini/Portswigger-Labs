@@ -8,8 +8,13 @@ Modified the URL parameter:
 
 ' OR 1=1--
 
+-  `OR 1=1`->always true
+-  `--`->comment to the rest of the query
+
 ## Result
 The application returned all products, including unreleased ones.
 
 ## Key Point
 User input is not properly handled, allowing modification of the query logic.
+## this is the URL
+<img  alt="url" src="url.png" />
