@@ -19,4 +19,7 @@ User input is not properly handled, allowing bypass of authentication.
 ## Proof
 
 <img alt="injection" src="1.png" />
+
+*password can be anything*
+
 <img alt="access" src="2.png" />
