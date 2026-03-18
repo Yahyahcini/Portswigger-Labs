@@ -7,7 +7,9 @@ The `category` parameter is vulnerable to SQL injection, allowing UNION queries.
 Determined column count:
 
 ' ORDER BY 1--
+
 ' ORDER BY 2--
+
 ' ORDER BY 3-- (error)
 
 Confirmed 2 columns.
