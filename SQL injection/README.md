@@ -9,11 +9,6 @@ SQL Injection allows manipulation of database queries through unsanitized user i
 - UNION-based injection
 - Blind SQL injection
 
-## Detection Basics
-- '
-- ' OR 1=1--
-- ' OR 1=2--
-- Observe differences in responses
 
 ## Labs
 - Lab 1: Retrieving Hidden Data
