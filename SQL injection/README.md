@@ -20,5 +20,5 @@ SQL Injection allows manipulation of database queries through unsanitized user i
 
 Each lab contains a practical example with exploitation steps and results.
 
-***All labs are solved manually.***
+***All labs are solved manually,***
 ***Writeups reflect my own testing process and understanding.***
