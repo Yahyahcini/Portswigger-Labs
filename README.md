@@ -6,7 +6,7 @@ This repository documents a hands-on progression through the PortSwigger Web Sec
 
 ## 📌 Contents
 
-- ✅ SQL Injection (7 labs completed)
+- ✅ SQL Injection (8 labs completed)
 - ⬜ *(in progress)*
 
 ---
