@@ -51,5 +51,5 @@ Blind SQL injection relies on application behavior to infer data, often requirin
 <img alt="request" src="2.png" />
 <img alt="intruder" src="3.png" />
 <img alt="results" src="4.png" />
-<img alt="results" src="5.png" />
+<img alt="results" src="5.jpg" />
 <img alt="detail" src="6.png" />
