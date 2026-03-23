@@ -7,7 +7,8 @@ This repository documents a hands-on progression through the PortSwigger Web Sec
 ## 📌 Contents
 
 - ✅ SQL Injection (8 labs completed)
-- ✅ Cross-site scripting(XSS)(.. labs completed)
+- ✅ Cross-site scripting(XSS)(9 labs completed)
+- ✅ Access Control(.. labs completed)
 - ⬜ *(in progress)*
 
 ---
