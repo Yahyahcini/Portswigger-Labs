@@ -22,5 +22,8 @@ Cross-Site Scripting (XSS) allows execution of JavaScript in a user's browser th
 
 Each lab contains a practical example with exploitation steps and results.
 
+[XSS Cheat sheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
+
+
 ***All labs are solved manually,***
 ***Writeups reflect my own testing process and understanding.***
